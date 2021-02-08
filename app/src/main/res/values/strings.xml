@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LaunchX</string>
+    <string name="Name">Name</string>
+    <string name="name">Name</string>
+    <string name="postalcode">postalCode</string>
+    <string name="website">website</string>
+    <string name="country">country</string>
+</resources>
