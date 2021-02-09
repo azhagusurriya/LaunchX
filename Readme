@@ -1,0 +1,3 @@
+Android project coded in JAVA
+Used Retrofit to make a network call to access the Online API with the help of Moshi Library to convert JSON Objects to JAVA Objects.
+Displayed the Gathered data in a recycle view
